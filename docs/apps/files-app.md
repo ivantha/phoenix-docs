@@ -18,7 +18,7 @@ Its file hierarchy can be identified as,
 ------mixins.js
 ```
 
-* default.js - Loads the **files** app
+* default.js - Initialize the **files** app
 
 ### Sub components
 
@@ -28,4 +28,5 @@ Its file hierarchy can be identified as,
 | Files-Details.vue       | Right side menu when single/multiple files(s) is/are selected |
 | Files-Details-Buttonrow.vue      | Button component containing options for **Download, Moving and Deleting** of the selected file(s) |
 | Tile.vue      | Single row representing a file/directory |
+
 

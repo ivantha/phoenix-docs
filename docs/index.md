@@ -11,6 +11,6 @@
     * [Guidelines](/developer_guide/guidelines.md)
     * [Project structure](/developer_guide/project-structure.md)
     * [Making apps](/developer_guide/making-apps.md)
-    * [Vue instances](/developer_guide/vue-instance.md)
+    * [Vue instances](/developer_guide/vue-instances.md)
 * Apps
     * [Files](/apps/files-app.md)
