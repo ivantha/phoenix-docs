@@ -1,16 +1,16 @@
-# ownCloud Phoenix
+# Phoenix
 
-## What is Phoenix?
+![ownCloud logo](https://upload.wikimedia.org/wikipedia/commons/4/48/Owncloud-logo.png)
 
-Phoenix is the Environment for your ownCloud Application frontend. It's completely written in HTML, CSS and Javascript.
+## Table of content
 
-Phoenix's OC Object is a [Vue.js](https://vuejs.org/) instance using [babel](https://babeljs.io/), [vue-loader](https://vue-loader.vuejs.org/), [vue-resource](https://github.com/pagekit/vue-resource) (and more) bundled with [Webpack](https://webpack.github.io/). UI and theming is based on the [Less](http://lesscss.org/) version of [Uikit3](https://getuikit.com/) (Currently in beta)
-
-[Require.js](http://requirejs.org/) is used in application registration and booting.
-
-### New frontend
-
-![bildschirmfoto von 2018-03-14 17-28-06](https://user-images.githubusercontent.com/1005065/37416039-20817b4c-27ad-11e8-9f14-cbe12936fd64.png)
-![bildschirmfoto von 2018-03-14 17-27-40](https://user-images.githubusercontent.com/1005065/37416040-20ad906a-27ad-11e8-8a56-ad5f824743a0.png)
-
-[See this online Demo](http://wp12578177.server-he.de)
+* Introduction
+    * [About Phoenix](/introduction/about-phoenix.md)
+    * [Getting started](/introduction/getting-started.md)
+* Developer guide
+    * [Guidelines](/developer_guide/guidelines.md)
+    * [Project structure](/developer_guide/project-structure.md)
+    * [Making apps](/developer_guide/making-apps.md)
+    * [Vue instances](/developer_guide/vue-instance.md)
+* Apps
+    * [Files](/apps/files-app.md)
