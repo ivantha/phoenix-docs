@@ -23,14 +23,10 @@ phoenix
 ----default.js
 ```
 
-* appinfo - Contains information about the Phoenix client
-* apps - Contains separate apps that will work with the Phoenix client.
+* **appinfo** - Contains information about the Phoenix client
+* **apps** - Contains separate apps that will work with the Phoenix client.
 eg. File browsing also works as an app named **file**
-* core - Code CSS files etc.
-* docs - Documentation
-* img - Image assets
-* src - Source directory for the Phoenix code
-
-
-
-
+* **core** - Code CSS files etc.
+* **docs** - Documentation
+* **img** - Image assets
+* **src** - Source directory for the Phoenix code

@@ -23,7 +23,7 @@ OC.$bus.on('eventname', payload => {
 })
 ```
 
-### Read more about
+#### Read more about
 
 * Naming convention for events
 * The full list of phoenix events

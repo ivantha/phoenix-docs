@@ -8,7 +8,7 @@
     * [About Phoenix](/introduction/about-phoenix.md)
     * [Getting started](/introduction/getting-started.md)
 * Developer guide
-    * [Guidelines](/developer_guide/guidelines.md)
+    * [Guidelines](https://doc.owncloud.com/server/10.0/developer_manual/general/codingguidelines.html)
     * [Project structure](/developer_guide/project-structure.md)
     * [Making apps](/developer_guide/making-apps.md)
     * [Vue instances](/developer_guide/vue-instances.md)

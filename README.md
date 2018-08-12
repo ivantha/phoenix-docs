@@ -27,7 +27,7 @@ server, offering a non-disruptive work environment for the end-user.
 
 ### [GSoC Project Page](https://summerofcode.withgoogle.com/projects/#5067468272304128)
 
-### [GSoC Project Proposal](https://docs.google.com/document/d/1FZ9F81olGZ-WoMcljzH5Zp4ZnjXxKlh5MhiLcax4bwA/edit?usp=sharing)
+### [GSoC Project Proposal](https://storage.googleapis.com/summerofcode-prod.appspot.com/gsoc/core_project/doc/6504610056372224_1522136827_Petabyte-Scale_Cloud_Storage_File_Manager.pdf?Expires=1534198420&GoogleAccessId=summerofcode-prod%40appspot.gserviceaccount.com&Signature=e8QRpWDmnQrBL5%2BnuJZ668xvnEKTd4cxV5JWmHV4dFraxZVQRlEoPDC%2Fzzt1AJ6Crs5EdmDKBmFdYYMlp%2BVBFXStdQpTDzxPx7dTDzqLY4BjnLO%2Fq3VNbL308Dl%2FhVszb1CW%2FWO0pHytjw9sEufzAMvbccDdvWfU0Ynht%2BncIdAB8bsZkHetucz%2BqBX%2FAXmtdQypb7pNFuYWMyreD7VuRtI%2Bboouz159QWEO%2FP8Fad3XwaSJXjlOCVhpvjb%2BCxSy9BWdb81D%2BnkMpQHa%2F1IFbzD4dFu3STRdG2BsG0A2vfgA5MAoUp%2FrcNJ3bvMowfjD4Bt5lfWz1wgqBAzp83O26A%3D%3D)
 
 ### [GitHub Organization Repo](https://github.com/owncloud/phoenix)
 
@@ -35,7 +35,7 @@ server, offering a non-disruptive work environment for the end-user.
 
 ### [Project Demo]() - TODO
 
-### [Project Wiki](project_wiki.md)
+### [Project Wiki](/wiki/project_wiki.md)
 
 ### Work Summary - TODO
 
