@@ -5,12 +5,12 @@
 ## Table of content
 
 * Introduction
-    * [About Phoenix](/introduction/about-phoenix.md)
-    * [Getting started](/introduction/getting-started.md)
+    * [About Phoenix](/wiki/introduction/about-phoenix.md)
+    * [Getting started](/wiki/introduction/getting-started.md)
 * Developer guide
     * [Guidelines](https://doc.owncloud.com/server/10.0/developer_manual/general/codingguidelines.html)
-    * [Project structure](/developer_guide/project-structure.md)
-    * [Making apps](/developer_guide/making-apps.md)
-    * [Vue instances](/developer_guide/vue-instances.md)
+    * [Project structure](/wiki/developer_guide/project-structure.md)
+    * [Making apps](/wiki/developer_guide/making-apps.md)
+    * [Vue instances](/wiki/developer_guide/vue-instances.md)
 * Apps
-    * [Files](/apps/files-app.md)
+    * [Files](/wiki/apps/files-app.md)

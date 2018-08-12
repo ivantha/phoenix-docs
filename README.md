@@ -37,9 +37,36 @@ server, offering a non-disruptive work environment for the end-user.
 
 ### [Project Wiki](/wiki/project_wiki.md)
 
-### Work Summary - TODO
+### Work Summary
+For GSoC 2018 I worked on the Phoenix frontend for the ownCloud. I mainly
+worked on the files-app which enabled browsing of files and other common
+functionalities and also its PWA capabilities.
+
+#### M2 Files-app
+The files app will be a prominent app in the primary interface of Phoenix.
+It allow users to navigate through their files and other file management
+activities such as download etc.
+
+- [x] M2.1 Implement file browsing
+- [x] M2.2 Implement data upload and download
+- [ ] M2.3 Implement the public link functionality
+- [ ] M2.4 Implement the sharing functionality
+- [x] M2.5 Perform tests on various corner cases that arise
+- [x] M2.6 Ensure proper documentation of the written code
+
+#### M3 Adapt Phoenix to PWA:
+This milestone aims to equip Phoenix with offline file manipulation
+capabilities.
+
+- [x] M3.1 Wrap Phoenix into a shell-app following Google best practices
+- [x] M3.2 Test PWA compatibility with Lighthouse
+- [x] M3.3 Cache file metadata from ownCloud into the browser cache
+- [x] M3.4 Detect when user goes offline and show warning banner
+- [x] M3.5 Reconcile changes when network connection comes back
+- [x] M3.6 Test offline metadata scenarios
 
 ### What Covered - TODO
+
 
 ### What left - TODO
 
