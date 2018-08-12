@@ -35,29 +35,29 @@ server, offering a non-disruptive work environment for the end-user.
 
 ### [Project Demo]() - TODO
 
-### [Project Wiki](/wiki/project_wiki.md)
+### [Project Wiki](https://github.com/OshanIvantha/phoenix-docs/wiki)
 
 ### Work Summary
 For GSoC 2018 I worked on the Phoenix frontend for the ownCloud. I mainly
-worked on the files-app which enabled browsing of files and other common
-functionalities and also its PWA capabilities.
+worked on the files-app which enabled browsing of files and also its
+PWA capabilities.
 
-#### M2 Files-app
+#### M2 - Files-app
 The files app will be a prominent app in the primary interface of Phoenix.
 It allow users to navigate through their files and other file management
 activities such as download etc.
 
+#### M3 - Adapt Phoenix to a PWA
+This milestone aims to equip Phoenix with offline file manipulation
+capabilities. PWA capabilities has been added using two main methods.
+- Caching of files using the Workbox plugin
+- Saving the file hierarchy of the user's storage space while the user is online
+
+### What is covered
 - [x] M2.1 Implement file browsing
 - [x] M2.2 Implement data upload and download
-- [ ] M2.3 Implement the public link functionality
-- [ ] M2.4 Implement the sharing functionality
 - [x] M2.5 Perform tests on various corner cases that arise
 - [x] M2.6 Ensure proper documentation of the written code
-
-#### M3 Adapt Phoenix to PWA:
-This milestone aims to equip Phoenix with offline file manipulation
-capabilities.
-
 - [x] M3.1 Wrap Phoenix into a shell-app following Google best practices
 - [x] M3.2 Test PWA compatibility with Lighthouse
 - [x] M3.3 Cache file metadata from ownCloud into the browser cache
@@ -65,9 +65,12 @@ capabilities.
 - [x] M3.5 Reconcile changes when network connection comes back
 - [x] M3.6 Test offline metadata scenarios
 
-### What Covered - TODO
+### What is left
+- [ ] M2.3 Implement the public link functionality
+- [ ] M2.4 Implement the sharing functionality
 
-
-### What left - TODO
-
-### Reference - TODO
+### Reference
+1. [Vue.js Documentation](https://vuejs.org/v2/guide/)
+2. [UIKit Documentation](https://getuikit.com/docs/introduction)
+3. [PUG Documentation](https://pugjs.org/api/reference.html)
+4. [owncloud-js-client](https://github.com/owncloud/js-owncloud-client)
