@@ -33,8 +33,6 @@ server, offering a non-disruptive work environment for the end-user.
 
 ### [Commits during GSoC 2018](https://github.com/owncloud/phoenix/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3AOshanIvantha+)
 
-### [Project Demo]() - TODO
-
 ### [Project Wiki](https://github.com/OshanIvantha/phoenix-docs/wiki)
 
 ### Work Summary
